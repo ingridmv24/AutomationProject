@@ -9,4 +9,4 @@ In the second test, the user login to the web page with a previously created use
 and is verified the status of the purchase. The test verifies:   
   1).Status of the purchase is "In transit".
   2).The list of purchased products has two items
-  3).The price of each product is extracted, they are added, and is validated if the result is equal to 2.88
+  3).The price of each product is extracted, they are added and is validated if the result is equal to 2.88
