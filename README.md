@@ -1,6 +1,5 @@
 # AutomationProject
 Automated tests for a webshop website https://juice-shop.herokuapp.com/.
-
 In the first test a user is created,products are added to the checkout and the test verifies:
 
   1. After purchasing two products the text "Thank you for your purchase!" appears.
